@@ -1,7 +1,7 @@
 # Serverless Movie Planner Application
 
-Serverless event application where a user can use this as a checklist to keep track of the events planning.
-Events could be birthday parties, wedding, engagement party etc.
+Serverless Movie application where a user can use this to keep track of the movies watchlist.
+User can store the list with details such as rating, pictures, reviews etc.
 
 Backend
 To build and deploy the application, first edit the backend/serverless.yml file to set the appropriate AWS and Auth0 parameters, then run the following commands:
